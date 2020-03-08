@@ -3,6 +3,9 @@
 
 #include <iostream>
 
+/**
+  A message which should appear in Doxygen.
+ */
 int main()
 {
     std::cout << "TEST #1";
